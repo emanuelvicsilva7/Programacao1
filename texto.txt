@@ -1,0 +1,6 @@
+Entreterimento,Titulo,Genero,Ano,Nota
+Filme,Interestelar,Ficção Científica,2014,9
+Filme,O Poderoso Chefão,Drama,1972,10
+Filme,Toy Story,Animação,1995,10
+Filme,Clube da Luta,Drama,1999,9
+Livro,É Assim que Acaba,2018,7
