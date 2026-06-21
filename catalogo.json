@@ -1,0 +1,14 @@
+[
+    {
+        "categoria": "Livro",
+        "nome": "Harry Potter E A Pedra Filosofal",
+        "genero": "Romance",
+        "ano": "1997"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "A Céu Aberto",
+        "genero": "Romance",
+        "ano": "1997"
+    }
+]
