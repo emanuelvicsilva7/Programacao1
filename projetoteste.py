@@ -1,6 +1,6 @@
 import json
 
-ARQUIVO = "catalog.json"
+ARQUIVO = "catalogo.json"
 
 
 # Carrega os dados do arquivo
