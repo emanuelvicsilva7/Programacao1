@@ -1,0 +1,182 @@
+[
+    {
+        "categoria": "Filme",
+        "nome": "A Empregada",
+        "genero": "Suspense",
+        "ano": "2026"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Harry Potter E A Pedra Filosofal",
+        "genero": "Fantasia",
+        "ano": "1997"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "A Céu Aberto",
+        "genero": "Romance",
+        "ano": "1997"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Titanic",
+        "genero": "Romance",
+        "ano": "1997"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Avatar",
+        "genero": "Ficção Científica",
+        "ano": "2009"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Interestelar",
+        "genero": "Ficção Científica",
+        "ano": "2014"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "O Poderoso Chefão",
+        "genero": "Drama",
+        "ano": "1972"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Clube Da Luta",
+        "genero": "Drama",
+        "ano": "1999"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Vingadores Ultimato",
+        "genero": "Ação",
+        "ano": "2019"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Corra",
+        "genero": "Terror",
+        "ano": "2017"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Invocação Do Mal",
+        "genero": "Terror",
+        "ano": "2013"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "La La Land",
+        "genero": "Musical",
+        "ano": "2016"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Top Gun Maverick",
+        "genero": "Ação",
+        "ano": "2022"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Parasita",
+        "genero": "Suspense",
+        "ano": "2019"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Dom Casmurro",
+        "genero": "Romance",
+        "ano": "1899"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "O Pequeno Príncipe",
+        "genero": "Fantasia",
+        "ano": "1943"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "1984",
+        "genero": "Ficção Científica",
+        "ano": "1949"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "A Revolução Dos Bichos",
+        "genero": "Fábula",
+        "ano": "1945"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "O Hobbit",
+        "genero": "Fantasia",
+        "ano": "1937"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Senhor Dos Anéis",
+        "genero": "Fantasia",
+        "ano": "1954"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Percy Jackson E O Ladrão De Raios",
+        "genero": "Fantasia",
+        "ano": "2005"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Jogos Vorazes",
+        "genero": "Ficção Científica",
+        "ano": "2008"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "A Culpa É Das Estrelas",
+        "genero": "Romance",
+        "ano": "2012"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "É Assim Que Acaba",
+        "genero": "Romance",
+        "ano": "2016"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Verity",
+        "genero": "Suspense",
+        "ano": "2018"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "Drácula",
+        "genero": "Terror",
+        "ano": "1897"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "It A Coisa",
+        "genero": "Terror",
+        "ano": "1986"
+    },
+    {
+        "categoria": "Livro",
+        "nome": "O Código Da Vinci",
+        "genero": "Suspense",
+        "ano": "2003"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Matrix",
+        "genero": "Ficção Científica",
+        "ano": "1999"
+    },
+    {
+        "categoria": "Filme",
+        "nome": "Gladiador",
+        "genero": "Ação",
+        "ano": "2000"
+    }
+]
