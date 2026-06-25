@@ -2,12 +2,12 @@ import json
 
 
 def carregardados():
-    with open('Projeto\catalogo.json', 'r', encoding='utf-8') as arquivo:
+    with open('catalogo.json', 'r', encoding='utf-8') as arquivo:
         return json.load(arquivo)
 
 
 def salvardados(dados):
-    with open('Projeto\catalogo.json', 'w', encoding='utf-8') as arquivo:
+    with open('catalogo.json', 'w', encoding='utf-8') as arquivo:
         json.dump(dados, arquivo, ensure_ascii=False, indent=4)
 
 
@@ -155,10 +155,10 @@ def editar():
         )
 
         salvardados(dados)
-        print("Item editado com sucesso!")
+        print('Item editado com sucesso!')
 
     else:
-        print("Item inválido!")
+        print('Item inválido!')
 
 
 # Apagar item
@@ -166,22 +166,22 @@ def apagar():
     dados = carregardados()
 
     if not dados:
-        print("Nenhum item cadastrado.")
+        print('Nenhum item cadastrado.')
         return
 
-    print("\n=== ITENS CADASTRADOS ===")
+    print('\nItens Cadastrados:')
     for i, item in enumerate(dados):
-        print(f"{i + 1} - {item['nome']} ({item['categoria']})")
+        print(f'{i + 1} - {item['nome']} ({item['categoria']})')
 
-    indice = int(input("\nDigite o número do item: ")) - 1
+    indice = int(input('\nDigite o número do item: ')) - 1
 
     if 0 <= indice < len(dados):
         removido = dados.pop(indice)
         salvardados(dados)
-        print(f"{removido['nome']} foi removido com sucesso!")
+        print(f'{removido['nome']} foi removido com sucesso!')
 
     else:
-        print("Item inválido!")
+        print('Item inválido!')
 
 
 while True:
@@ -196,7 +196,7 @@ while True:
 
     if escolha == '1':
         cadastrar()
-
+        
     elif escolha == '2':
         buscar()
 

@@ -160,11 +160,5 @@
         "nome": "Matrix",
         "genero": "Ficção Científica",
         "ano": "1999"
-    },
-    {
-        "categoria": "Filme",
-        "nome": "Gladiador",
-        "genero": "Ação",
-        "ano": "2000"
     }
 ]
