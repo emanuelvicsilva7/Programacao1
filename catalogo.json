@@ -6,18 +6,6 @@
         "ano": "2026"
     },
     {
-        "categoria": "Livro",
-        "nome": "Harry Potter E A Pedra Filosofal",
-        "genero": "Fantasia",
-        "ano": "1997"
-    },
-    {
-        "categoria": "Livro",
-        "nome": "A Céu Aberto",
-        "genero": "Romance",
-        "ano": "1997"
-    },
-    {
         "categoria": "Filme",
         "nome": "Titanic",
         "genero": "Romance",
